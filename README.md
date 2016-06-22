@@ -35,6 +35,7 @@
 7. [Everything in head tag](https://github.com/whqet/HEAD)
 8. [前端大牛们都学过哪些东西？](https://www.zhihu.com/question/22146521)
 9. [你是如何搭上前端这班列车的](http://www.w3cfuns.com/wht/view/id/15570090a894b5d324dfdcd55cf517e3.html)
+10. [写给想成为前端工程师的同学们](http://www.75team.com/post/to-be-a-good-frontend-engineer.html)
 
 ## 文章&发现
 #### 1. 第一次翻译
